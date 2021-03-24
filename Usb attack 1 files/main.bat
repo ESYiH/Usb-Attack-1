@@ -1,5 +1,5 @@
 @echo off
-rem -> avoir la permission admin
+rem -> got admin permission
 
 >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
 
