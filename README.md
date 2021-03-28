@@ -13,7 +13,7 @@ Enjoy
 
 1) copy the files
 2) put it in your usb key (any key will do)
-3) use a software to put "BaseStarter.bat" as an .inf (autorun when the key is plug) i recommand [SamLogic](https://www.samlogic.net/usb-autorun-creator/usb-autorun-creator.htm)
+3) use a software to put "Start + PB.bat" as an .inf (autorun when the key is plug) i recommand [SamLogic](https://www.samlogic.net/usb-autorun-creator/usb-autorun-creator.htm)
 4) (optinal) put all the files in hide mode (you can find how [here](https://www.windowscentral.com/how-hide-files-and-folders-windows-10))
 5) eject the key
 6) all is setup
