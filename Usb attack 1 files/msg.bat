@@ -10,6 +10,8 @@ goto :suite
 :suite 
 echo x=msgbox("Windows has detected that your usb key have a special driver, windows need to download it and reboot before reading it." ,64, "Checking for a driver update") >> msgbox.vbs
 start msgbox.vbs
+timeout 1 > nul
+del "msgboxB.vbs"
 goto :end
 
 :end
