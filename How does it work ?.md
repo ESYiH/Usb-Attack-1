@@ -1,4 +1,5 @@
-Here I will explain what the code do, if you want to learn i let you search on internet :) (you can also text me on discord)
+What's the goal ?
+-----------------------------------------------------------
 
 The goal of this couple of files is to disable [windows defender](https://en.wikipedia.org/wiki/Microsoft_Defender) & [UAC](https://www.digitalcitizen.life/uac-why-you-should-never-turn-it-off/)
 
