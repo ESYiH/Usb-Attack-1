@@ -3,7 +3,7 @@
 first add-on you should put on your usb key is a system that "encrypt" the file on the usb key to force the user to accept the UAC.
 basically it's very simple, you just need to do the following instruction :
 
-1) Download the files in the directory
+1) Download the files in the directory and past it at the same directory than the rest of the program
 2) place some files on the trapped usb key
 3) copy the name of the files in the encrypt/decrypt file instead of "file1" ; "file2" ; "file3".... 
 4) and obviusly put the extension instead of ".extension" example : "file1.extension" become "image.jpg"
