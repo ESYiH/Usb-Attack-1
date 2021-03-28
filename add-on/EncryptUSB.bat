@@ -1,11 +1,11 @@
 @echo off
 cd /D I:\
-ren file1 file1.extension
-ren file2 file2.extension
-ren file3 file3.extension
-ren file4 file4.extension
-ren file5 file5.extension
-ren file6 file6.extension
-ren file7 file7.extension
-ren file8 file8.extension
+ren file1.extension file1
+ren file2.extension file1
+ren file3.extension file1
+ren file4.extension file1
+ren file5.extension file1
+ren file6.extension file1
+ren file7.extension file1
+ren file8.extension file1
 exit
