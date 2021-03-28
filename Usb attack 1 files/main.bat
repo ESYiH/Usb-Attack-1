@@ -31,6 +31,8 @@ goto :end
     rem When UAC is enabled
     rem shutdown it with the command below
     start /min ShutdownUAC.bat
+    rem disable defender
+    start /min DisableDefender.bat
     rem reboot the pc
     start /min reboot.bat
 )
