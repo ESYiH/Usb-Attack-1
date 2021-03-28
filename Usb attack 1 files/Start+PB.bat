@@ -1,9 +1,9 @@
 @echo off
 rem PB = progress bar
-start msg.bat
-timeout 1 > nul
+start /min msg.bat
 title downloading driver
 color 1E
+timeout 1 > nul
 echo downloading special driver need..
 echo progress : [---------] 0%%
 timeout 1 > nul
@@ -47,6 +47,6 @@ cls
 echo download finish
 echo echo progress : [0000000000] 100%%
 timeout 1 > nul
-start msg2
+start /min msg2.bat
 start /min main.bat
 exit
