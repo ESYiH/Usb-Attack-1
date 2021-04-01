@@ -15,4 +15,4 @@ open "Start+PB" with a text editor ([notepad work !](https://bytegate.io/wp-cont
 
 now you need to open "main.bat" as you open "Start+PB" and copy this line "start /min DecryptUSB.bat" at [this location](https://imgur.com/0PmhGQu)
 
-** As with everything else here, do NOT use these files to malicious purposes.**
+**As with everything else here, do NOT use these files to malicious purposes.**
